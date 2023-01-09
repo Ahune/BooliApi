@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1700.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BooliAPI", "BooliAPI\BooliAPI.csproj", "{53DFCA45-BD71-47A4-9D28-971BD2C59F2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53DFCA45-BD71-47A4-9D28-971BD2C59F2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53DFCA45-BD71-47A4-9D28-971BD2C59F2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53DFCA45-BD71-47A4-9D28-971BD2C59F2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53DFCA45-BD71-47A4-9D28-971BD2C59F2D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {736FECDB-555F-462D-A5FA-F363FE9CAFC9}
+	EndGlobalSection
+EndGlobal
